@@ -1,1 +1,1 @@
-pritnt("hello world!!")
+pritnt("hello world!! i am john")
